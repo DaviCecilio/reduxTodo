@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/reduxTodo/static/js/main.61d086dd.chunk.js",
-    "main.js.map": "/reduxTodo/static/js/main.61d086dd.chunk.js.map",
-    "runtime-main.js": "/reduxTodo/static/js/runtime-main.23fd2f3e.js",
-    "runtime-main.js.map": "/reduxTodo/static/js/runtime-main.23fd2f3e.js.map",
-    "static/js/2.0a6db241.chunk.js": "/reduxTodo/static/js/2.0a6db241.chunk.js",
-    "static/js/2.0a6db241.chunk.js.map": "/reduxTodo/static/js/2.0a6db241.chunk.js.map",
-    "index.html": "/reduxTodo/index.html",
-    "precache-manifest.e5ba5a937237ef7d2493a85c7cece11b.js": "/reduxTodo/precache-manifest.e5ba5a937237ef7d2493a85c7cece11b.js",
-    "service-worker.js": "/reduxTodo/service-worker.js",
-    "static/js/2.0a6db241.chunk.js.LICENSE.txt": "/reduxTodo/static/js/2.0a6db241.chunk.js.LICENSE.txt",
-    "static/media/githubIcon.svg": "/reduxTodo/static/media/githubIcon.4c680c66.svg",
-    "static/media/linkedinIcon.svg": "/reduxTodo/static/media/linkedinIcon.4b9d6707.svg",
-    "static/media/mailIcon.svg": "/reduxTodo/static/media/mailIcon.9197c0b4.svg",
-    "static/media/personIcon.svg": "/reduxTodo/static/media/personIcon.3548f675.svg"
+    "main.js": "/redux-todo/static/js/main.61d086dd.chunk.js",
+    "main.js.map": "/redux-todo/static/js/main.61d086dd.chunk.js.map",
+    "runtime-main.js": "/redux-todo/static/js/runtime-main.ebfade36.js",
+    "runtime-main.js.map": "/redux-todo/static/js/runtime-main.ebfade36.js.map",
+    "static/js/2.c43f5b0d.chunk.js": "/redux-todo/static/js/2.c43f5b0d.chunk.js",
+    "static/js/2.c43f5b0d.chunk.js.map": "/redux-todo/static/js/2.c43f5b0d.chunk.js.map",
+    "index.html": "/redux-todo/index.html",
+    "precache-manifest.96dc09d5764ac8a60d50c3f7dcd47b28.js": "/redux-todo/precache-manifest.96dc09d5764ac8a60d50c3f7dcd47b28.js",
+    "service-worker.js": "/redux-todo/service-worker.js",
+    "static/js/2.c43f5b0d.chunk.js.LICENSE.txt": "/redux-todo/static/js/2.c43f5b0d.chunk.js.LICENSE.txt",
+    "static/media/githubIcon.svg": "/redux-todo/static/media/githubIcon.4c680c66.svg",
+    "static/media/linkedinIcon.svg": "/redux-todo/static/media/linkedinIcon.4b9d6707.svg",
+    "static/media/mailIcon.svg": "/redux-todo/static/media/mailIcon.9197c0b4.svg",
+    "static/media/personIcon.svg": "/redux-todo/static/media/personIcon.3548f675.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.23fd2f3e.js",
-    "static/js/2.0a6db241.chunk.js",
+    "static/js/runtime-main.ebfade36.js",
+    "static/js/2.c43f5b0d.chunk.js",
     "static/js/main.61d086dd.chunk.js"
   ]
 }
