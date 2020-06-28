@@ -1,20 +1,12 @@
-import uuid from 'uuid/dist/v4'
+import { GetLocalTasks } from '../../services/localStorage'
 
-const INITIAL_STATE = [
-  {
-    id: uuid(),
-    text: 'Fazer Café',
-  },
-  {
-    id: uuid(),
-    text: 'Fazer Dever',
-  },
-]
+const INITIAL_STATE = JSON.parse(GetLocalTasks())
 
 export default function todos(state = INITIAL_STATE, action) {
   switch (action.type) {
     case 'ADD_TODO':
-      return [...state, { id: uuid(), text: action.payload.text }]
+      console.log({ id: action.payload.id, text: action.payload.text })
+      return [...state, { id: action.payload.id, text: action.payload.text }]
     case 'REMOVE_TODO':
       return state.filter((filter) => filter.id !== action.payload.id)
     default:
