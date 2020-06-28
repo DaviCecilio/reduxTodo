@@ -5,11 +5,11 @@
   <img alt="Made by Davi Cecílio" src="https://img.shields.io/badge/made%20by-Davi%20Cec%C3%ADlio-brightgreen">
   </a>
   <a href="https://davicecilio.github.io/gitcompare-hooks/" target="_blank">
-  <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdavicecilio.github.io/reduxTodo/%2F">
+  <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdavicecilio.github.io/redux-todos/%2F">
   </a>
-   <img alt="Repository size" src="https://img.shields.io/github/repo-size/daviCecilio/reduxTodo?color=34cb79">
-  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/davicecilio/reduxTodo?color=34cb79">
-  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/davicecilio/reduxTodo?color=34cb79">
+   <img alt="Repository size" src="https://img.shields.io/github/repo-size/daviCecilio/redux-todos?color=34cb79">
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/davicecilio/redux-todos?color=34cb79">
+  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/davicecilio/redux-todos?color=34cb79">
 </p>
 
 <p align="center">
@@ -18,12 +18,12 @@
 
 ## :computer: Project
 
-Lista de tarefas simples para estudar REDUX, REACTOTRON e MATERIAL UI
+List of simple tasks to study REDUX, REACTOTRON and MATERIAL UI
 
 <br/>
 
  <p align="center">
- <a href="https://davicecilio.github.io/todoRedux/" target="_blank">
+ <a href="https://davicecilio.github.io/redux-todos/" target="_blank">
   <img src="./src/assets/animations/reduxTodoDemo.gif" alt="GIF - DEMO">
   </a>
 </p>
