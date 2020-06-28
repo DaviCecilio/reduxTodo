@@ -1,7 +1,6 @@
 export function GetLocalTasks() {
   try {
     const result = localStorage.getItem('@todoredux/tasks')
-    console.log(result)
     return result
   } catch (error) {
     return 'Error'

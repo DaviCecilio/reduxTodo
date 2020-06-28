@@ -79,9 +79,9 @@ const TodoList = ({ todos, addTodo, removeTodo }) => {
 
         <Collapse in={openToDo} timeout="auto" unmountOnExit>
           <List component="div" disablePadding>
-            {todos.length > 0 ? (
+            {todos && todos.length > 0 ? (
               todos.map((i) => (
-                <ListItem alignItems={'flex-start'}>
+                <ListItem key={i.id} alignItems={'flex-start'}>
                   <ListItemText key={i.id} primary={`${i.text}`} />
                   <StyledIcons>
                     <MdDelete onClick={() => handleDelete(i.id)} className="iconList fontDanger" />
