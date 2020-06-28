@@ -4,7 +4,7 @@
 <a href="https://github.com/DaviCecilio" target="_blank">
   <img alt="Made by Davi Cecílio" src="https://img.shields.io/badge/made%20by-Davi%20Cec%C3%ADlio-brightgreen">
   </a>
-  <a href="https://davicecilio.github.io/gitcompare-hooks/" target="_blank">
+  <a href="https://davicecilio.github.io/redux-todos/" target="_blank">
   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdavicecilio.github.io/redux-todos/%2F">
   </a>
    <img alt="Repository size" src="https://img.shields.io/github/repo-size/daviCecilio/redux-todos?color=34cb79">
